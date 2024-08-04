@@ -1,2 +1,1 @@
-console.log('Thanks for your efforts! V login');
-g
+console.log('Thanks for your efforts! V3');
